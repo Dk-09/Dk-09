@@ -1,6 +1,7 @@
 ###   Hi 👋
 
-Quick note about me
+# Quick note about me
+
 ```
 - 🔭 I’m currently working on Attendant.
 - 🌱 I’m currently learning Devops.
@@ -8,13 +9,9 @@ Quick note about me
 - 📫 How to reach me: you can't (i am intovert)
 - ⚡ Goal : wana be rich in life.
 ```
-# my best project
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dk-09&repo=Attendant)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-![counter](https://[YourEndpoint].m.pipedream.net)
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 
 <!--
 **Dk-09/Dk-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
