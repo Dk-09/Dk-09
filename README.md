@@ -4,7 +4,7 @@
 
 ```
 - 🔭 I’m currently working on Attendant.
-- [:computer:]("#" ":computer:") I’m currently learning Devops.
+- [:computer:] I’m currently learning Devops.
 - 💬 Ask me anything but not personal.
 - 📫 How to reach me: you can't (i am intovert)
 - ⚡ Goal : wana be rich in life.
