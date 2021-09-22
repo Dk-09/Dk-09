@@ -1,10 +1,10 @@
-#   Hi 👋
+#   Hi 👋 Nice to meet you.
 
 ### Quick note about me
 
 ```
 - 🔭 I’m currently working on Attendant.
-- :computer: I’m currently learning Devops.
+- 🌱 I’m currently learning Devops.
 - 💬 Ask me anything but not personal.
 - 📫 How to reach me: you can't (i am intovert)
 - ⚡ Goal : wana be rich in life.
