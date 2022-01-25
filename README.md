@@ -4,7 +4,7 @@
 
 ```
 - 🔭 I’m currently working on Attendant.
-- 🌱 I’m currently learning Devops.
+- 🌱 I’m currently Machine Learning.
 - 💬 Ask me anything but not personal.
 - 📫 How to reach me: you can't (i am intovert)
 ```
