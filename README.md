@@ -3,7 +3,7 @@
 ### Quick note about me
 
 ```
-- 🔭 I’m currently learning cyber security (malware dev/analyst).
+- 🔭 I’m currently learning web dev.
 - ⚡ Goal : 100 WPM (at 68 WPM).
 ```
 
