@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Dhruv — Cybersecurity | Pentester | Reverse Engineer ⚔️</h1>
+<h1 align="center">⚔️ Cybersecurity | Pentester | Reverse Engineer ⚔️</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Pentester+%7C+Reverse+Engineer+%7C+Malware+Dev" />
