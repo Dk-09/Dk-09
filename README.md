@@ -1,23 +1,45 @@
-#   Hi 👋 Nice to meet you.
+<h1 align="center">⚔️ Dhruv — Cybersecurity | Pentester | Reverse Engineer ⚔️</h1>
 
-### Quick note about me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Pentester+%7C+Reverse+Engineer+%7C+Malware+Dev" />
+</p>
 
-```
-- 🔭 I’m currently learning web dev.
-- ⚡ Goal : 100 WPM (at 68 WPM).
-```
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+## 🛡️ About Me
+- 🔥 Cybersecurity enthusiast focusing on **Pentesting, Malware Dev & RE**  
+- 🐉 Currently grinding **HTB Pro Labs (Dante/Zephyr)**  
+- 🛠️ Building malware, exploit dev tools & low-level projects  
 
 
-<!--
-**Dk-09/Dk-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tech Stack & Tools
 
-Here are some ideas to get you started:
+### 🔐 Cybersecurity / Pentesting
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2E86C1?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-6C3483?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1F618D?style=for-the-badge&logo=wireshark&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/JTR-7DCEA0?style=for-the-badge)
 
-- 🔭 I’m currently working on Attendant.
-- 🌱 I’m currently learning Devops.
-- 💬 Ask me anything but not personal.
-- 📫 How to reach me: you can't (i am intovert)
-- ⚡ Goal : wana be rich in life.
--->
+### 🧬 Reverse Engineering
+![Ghidra](https://img.shields.io/badge/Ghidra-B70E0E?style=for-the-badge&logo=ghidra&logoColor=white)
+![IDA](https://img.shields.io/badge/IDA%20Pro-34495E?style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/x64dbg-1C2833?style=for-the-badge)
+![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-E91E63?style=for-the-badge)
+
+### 🦠 Malware Development
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-6E2C00?style=for-the-badge)
+![WinAPI](https://img.shields.io/badge/WinAPI-154360?style=for-the-badge)
+
+### 🧊 Dev / Build Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## ⚔️ Certifications (In Progress + Completed)
+
+![HTB](https://img.shields.io/badge/HTB%20Pro%20Labs-Dante,%20Zephyr-9B59B6?style=for-the-badge)
+![Certifications](https://img.shields.io/badge/CPTS-Path%20(Active)-2ECC71?style=for-the-badge)
+
+⭐ *If you like my work, feel free to star a repo!*
